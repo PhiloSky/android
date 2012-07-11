@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <manifest>
 
-  <remote name="korg" fetch="git://android.googlesource.com/" review="review.source.android.com"/>
+  <remote name="korg" fetch="https://android.googlesource.com/" review="review.source.android.com"/>
   <remote name="github" fetch="git://github.com/" />
   <remote name="gitorious" fetch="git://gitorious.org" />
 
