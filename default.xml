@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <manifest>
 
-  <remote name="korg" fetch="git://android.git.kernel.org/" review="review.source.android.com"/>
+  <remote name="korg" fetch="git://android.googlesource.com/" review="review.source.android.com"/>
   <remote name="github" fetch="git://github.com/" />
   <remote name="gitorious" fetch="git://gitorious.org" />
 
@@ -185,7 +185,6 @@
   <project path="vendor/google/passion" name="CyanogenMod/android_vendor_google_passion" remote="github" />
   <project path="vendor/htc/dream_sapphire" name="CyanogenMod/android_vendor_htc_dream_sapphire" remote="github" />
   <project path="vendor/htc/inc" name="koush/android_vendor_htc_inc" remote="github" revision="master" />
-  <project path="vendor/motorola/sholes" name="koush/android_vendor_motorola_sholes" remote="github" revision="master" />
   <project path="vendor/htc/bravo" name="behnaam/android_vendor_htc_bravo" remote="github" />
   <project path="vendor/qcom/android-open" name="CyanogenMod/android_vendor_qcom_android-open" remote="github" />
   <project path="vendor/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" />
