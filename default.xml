@@ -3,7 +3,6 @@
 
   <remote name="korg" fetch="https://android.googlesource.com/" review="review.source.android.com"/>
   <remote name="github" fetch="git://github.com/" />
-  <remote name="gitorious" fetch="git://gitorious.org" />
 
   <default revision="eclair" remote="korg"/>
 
